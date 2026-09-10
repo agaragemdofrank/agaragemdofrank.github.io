@@ -1,0 +1,10 @@
+aconchego-exemplo.mp3
+
+Composição instrumental sintética de exemplo, criada para esta prévia.
+48 segundos, acordes suaves e timbre de teclado, sem voz ou gravações de terceiros.
+Não foi gerada no Suno. Substitua pelo MP3 definitivo quando estiver disponível.
+
+Arquivo e volume são configurados em src/config/site.js, na propriedade music.
+O player começa desligado, carrega após o clique e permite pausar/ajustar volume.
+Como as páginas são independentes, a faixa para ao mudar de página e precisa
+ser ativada novamente pelo visitante. Também pausa ao sair da aba.
