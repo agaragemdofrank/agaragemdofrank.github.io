@@ -1,0 +1,519 @@
+[
+  {
+    "id": "caixa-cenario-cha-revelacao",
+    "slug": "caixa-cenario-cha-revelacao",
+    "nome": "Caixa cenário chá revelação",
+    "categoria": "caixa-cenario",
+    "subcategoria": "maternidade",
+    "descricao": "Ursinhos, laços e tons suaves para acompanhar a descoberta mais especial.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-01-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-01-400.webp 400w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-01-800.webp 800w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-01-1200.webp 1200w",
+        "full": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-01-1200.webp",
+        "alt": "Caixa cenário chá revelação — vista principal",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-02-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-02-400.webp 400w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-02-800.webp 800w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-02-1200.webp 1200w",
+        "full": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-02-1200.webp",
+        "alt": "Caixa cenário chá revelação — variação do modelo",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-03-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-03-400.webp 400w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-03-800.webp 800w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-03-1200.webp 1200w",
+        "full": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-revelacao-03-1200.webp",
+        "alt": "Caixa cenário chá revelação — outra composição",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "destaque": true,
+    "tags": [
+      "maternidade",
+      "cha-revelacao",
+      "cha-de-bebe"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-cenario-boas-vindas-bebe",
+    "slug": "caixa-cenario-boas-vindas-bebe",
+    "nome": "Caixa cenário boas-vindas, bebê",
+    "categoria": "caixa-cenario",
+    "subcategoria": "maternidade",
+    "descricao": "Uma composição delicada com ursinho e nome para celebrar a chegada do bebê.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-01-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-01-400.webp 400w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-01-800.webp 800w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-01-1200.webp 1200w",
+        "full": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-01-1200.webp",
+        "alt": "Caixa cenário boas-vindas, bebê — vista principal",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-02-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-02-400.webp 400w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-02-800.webp 800w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-02-1200.webp 1200w",
+        "full": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-boas-vindas-bebe-02-1200.webp",
+        "alt": "Caixa cenário boas-vindas, bebê — variação do modelo",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "destaque": true,
+    "tags": [
+      "maternidade",
+      "nascimento"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-cenario-cha-de-bebe",
+    "slug": "caixa-cenario-cha-de-bebe",
+    "nome": "Caixa cenário chá de bebê",
+    "categoria": "caixa-cenario",
+    "subcategoria": "maternidade",
+    "descricao": "Ursinhos, pequenos corações e detalhes em azul ou rosa para o chá de bebê.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-01-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-01-400.webp 400w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-01-800.webp 800w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-01-1200.webp 1200w",
+        "full": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-01-1200.webp",
+        "alt": "Caixa cenário chá de bebê — vista principal",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-02-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-02-400.webp 400w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-02-800.webp 800w, /images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-02-1200.webp 1200w",
+        "full": "/images/produtos/caixa-cenario/maternidade/caixa-cenario-cha-de-bebe-02-1200.webp",
+        "alt": "Caixa cenário chá de bebê — variação do modelo",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "maternidade",
+      "cha-de-bebe"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-cenario-aniversario-rose",
+    "slug": "caixa-cenario-aniversario-rose",
+    "nome": "Caixa cenário aniversário rosé",
+    "categoria": "caixa-cenario",
+    "subcategoria": "adulto",
+    "descricao": "Tons de rosa e uma composição festiva para transformar o aniversário em uma lembrança especial.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-cenario/adulto/caixa-cenario-aniversario-rose-01-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/adulto/caixa-cenario-aniversario-rose-01-400.webp 400w, /images/produtos/caixa-cenario/adulto/caixa-cenario-aniversario-rose-01-800.webp 800w",
+        "full": "/images/produtos/caixa-cenario/adulto/caixa-cenario-aniversario-rose-01-1200.webp",
+        "alt": "Caixa cenário aniversário rosé — vista principal",
+        "width": 1086,
+        "height": 1448
+      }
+    ],
+    "destaque": true,
+    "tags": [
+      "adulto",
+      "aniversario"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-cenario-patrulha-canina",
+    "slug": "caixa-cenario-patrulha-canina",
+    "nome": "Caixa cenário Patrulha Canina",
+    "categoria": "caixa-cenario",
+    "subcategoria": "infantil",
+    "descricao": "Uma inspiração colorida com os personagens da Patrulha Canina para a comemoração infantil.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-cenario/infantil/caixa-cenario-patrulha-canina-01-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/infantil/caixa-cenario-patrulha-canina-01-400.webp 400w",
+        "full": "/images/produtos/caixa-cenario/infantil/caixa-cenario-patrulha-canina-01-1200.webp",
+        "alt": "Caixa cenário Patrulha Canina — vista principal",
+        "width": 592,
+        "height": 1048
+      }
+    ],
+    "destaque": true,
+    "tags": [
+      "infantil",
+      "aniversario"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-cenario-dia-dos-professores",
+    "slug": "caixa-cenario-dia-dos-professores",
+    "nome": "Caixa cenário Dia dos Professores",
+    "categoria": "caixa-cenario",
+    "subcategoria": "datas-comemorativas",
+    "descricao": "Corujinhas, livros e mensagens de carinho para homenagear quem ensina.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-01-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-01-400.webp 400w, /images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-01-800.webp 800w, /images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-01-1200.webp 1200w",
+        "full": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-01-1200.webp",
+        "alt": "Caixa cenário Dia dos Professores — vista principal",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-02-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-02-400.webp 400w, /images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-02-800.webp 800w",
+        "full": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-dia-dos-professores-02-1200.webp",
+        "alt": "Caixa cenário Dia dos Professores — variação do modelo",
+        "width": 1024,
+        "height": 1536
+      }
+    ],
+    "destaque": true,
+    "tags": [
+      "datas-comemorativas",
+      "professores"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-cenario-amor-de-pai",
+    "slug": "caixa-cenario-amor-de-pai",
+    "nome": "Caixa cenário Amor de Pai",
+    "categoria": "caixa-cenario",
+    "subcategoria": "datas-comemorativas",
+    "descricao": "Uma homenagem em azul com mensagem especial para o Dia dos Pais.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-amor-de-pai-01-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-amor-de-pai-01-400.webp 400w, /images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-amor-de-pai-01-800.webp 800w",
+        "full": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-amor-de-pai-01-1200.webp",
+        "alt": "Caixa cenário Amor de Pai — vista principal",
+        "width": 896,
+        "height": 1195
+      },
+      {
+        "src": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-amor-de-pai-02-800.webp",
+        "srcset": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-amor-de-pai-02-400.webp 400w, /images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-amor-de-pai-02-800.webp 800w",
+        "full": "/images/produtos/caixa-cenario/datas-comemorativas/caixa-cenario-amor-de-pai-02-1200.webp",
+        "alt": "Caixa cenário Amor de Pai — variação do modelo",
+        "width": 922,
+        "height": 1152
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "datas-comemorativas",
+      "dia-dos-pais",
+      "adulto"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-envelope-dia-dos-pais",
+    "slug": "caixa-envelope-dia-dos-pais",
+    "nome": "Caixa envelope Dia dos Pais",
+    "categoria": "caixa-envelope",
+    "subcategoria": "adulto",
+    "descricao": "Uma caixa envelope temática para compor um presente de Dia dos Pais.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-envelope/adulto/caixa-envelope-dia-dos-pais-01-800.webp",
+        "srcset": "/images/produtos/caixa-envelope/adulto/caixa-envelope-dia-dos-pais-01-400.webp 400w, /images/produtos/caixa-envelope/adulto/caixa-envelope-dia-dos-pais-01-800.webp 800w, /images/produtos/caixa-envelope/adulto/caixa-envelope-dia-dos-pais-01-1200.webp 1200w",
+        "full": "/images/produtos/caixa-envelope/adulto/caixa-envelope-dia-dos-pais-01-1200.webp",
+        "alt": "Caixa envelope Dia dos Pais — vista principal",
+        "width": 1310,
+        "height": 1200
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "adulto",
+      "datas-comemorativas",
+      "dia-dos-pais"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-envelope-carinho-professores",
+    "slug": "caixa-envelope-carinho-professores",
+    "nome": "Caixa envelope carinho para professores",
+    "categoria": "caixa-envelope",
+    "subcategoria": "datas-comemorativas",
+    "descricao": "Mensagens de reconhecimento e estampas delicadas em uma caixa envelope.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-01-800.webp",
+        "srcset": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-01-400.webp 400w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-01-800.webp 800w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-01-1200.webp 1200w",
+        "full": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-01-1200.webp",
+        "alt": "Caixa envelope carinho para professores — vista principal",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-02-800.webp",
+        "srcset": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-02-400.webp 400w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-02-800.webp 800w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-02-1200.webp 1200w",
+        "full": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-carinho-professores-02-1200.webp",
+        "alt": "Caixa envelope carinho para professores — variação do modelo",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "datas-comemorativas",
+      "professores"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "caixa-envelope-corujinhas",
+    "slug": "caixa-envelope-corujinhas",
+    "nome": "Caixa envelope corujinhas e educação",
+    "categoria": "caixa-envelope",
+    "subcategoria": "datas-comemorativas",
+    "descricao": "Corujinhas e elementos escolares em diferentes composições para homenagear professores.",
+    "imagens": [
+      {
+        "src": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-01-800.webp",
+        "srcset": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-01-400.webp 400w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-01-800.webp 800w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-01-1200.webp 1200w",
+        "full": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-01-1200.webp",
+        "alt": "Caixa envelope corujinhas e educação — vista principal",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-02-800.webp",
+        "srcset": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-02-400.webp 400w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-02-800.webp 800w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-02-1200.webp 1200w",
+        "full": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-02-1200.webp",
+        "alt": "Caixa envelope corujinhas e educação — variação do modelo",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-03-800.webp",
+        "srcset": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-03-400.webp 400w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-03-800.webp 800w, /images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-03-1200.webp 1200w",
+        "full": "/images/produtos/caixa-envelope/datas-comemorativas/caixa-envelope-corujinhas-03-1200.webp",
+        "alt": "Caixa envelope corujinhas e educação — outra composição",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "destaque": true,
+    "tags": [
+      "datas-comemorativas",
+      "professores"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "presente-lapis-professores",
+    "slug": "presente-lapis-professores",
+    "nome": "Presente personalizado em formato de lápis",
+    "categoria": "lembrancinhas",
+    "subcategoria": "datas-comemorativas",
+    "descricao": "Uma apresentação criativa com formato de lápis, nome e detalhes temáticos.",
+    "imagens": [
+      {
+        "src": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-01-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-01-400.webp 400w, /images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-01-800.webp 800w",
+        "full": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-01-1200.webp",
+        "alt": "Presente personalizado em formato de lápis — vista principal",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-02-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-02-400.webp 400w, /images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-02-800.webp 800w",
+        "full": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-02-1200.webp",
+        "alt": "Presente personalizado em formato de lápis — variação do modelo",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-03-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-03-400.webp 400w, /images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-03-800.webp 800w",
+        "full": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-03-1200.webp",
+        "alt": "Presente personalizado em formato de lápis — outra composição",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-04-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-04-400.webp 400w, /images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-04-800.webp 800w",
+        "full": "/images/produtos/lembrancinhas/datas-comemorativas/presente-lapis-professores-04-1200.webp",
+        "alt": "Presente personalizado em formato de lápis — conjunto de variações",
+        "width": 1086,
+        "height": 1448
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "datas-comemorativas",
+      "professores"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "lembrancinha-dia-dos-pais",
+    "slug": "lembrancinha-dia-dos-pais",
+    "nome": "Lembrancinhas com mensagens para o pai",
+    "categoria": "lembrancinhas",
+    "subcategoria": "datas-comemorativas",
+    "descricao": "Diferentes estampas e mensagens para demonstrar carinho no Dia dos Pais.",
+    "imagens": [
+      {
+        "src": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-dia-dos-pais-01-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-dia-dos-pais-01-400.webp 400w, /images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-dia-dos-pais-01-800.webp 800w",
+        "full": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-dia-dos-pais-01-1200.webp",
+        "alt": "Lembrancinhas com mensagens para o pai — vista principal",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-dia-dos-pais-02-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-dia-dos-pais-02-400.webp 400w, /images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-dia-dos-pais-02-800.webp 800w",
+        "full": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-dia-dos-pais-02-1200.webp",
+        "alt": "Lembrancinhas com mensagens para o pai — variação do modelo",
+        "width": 1086,
+        "height": 1448
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "datas-comemorativas",
+      "dia-dos-pais",
+      "adulto"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "lembrancinhas-delicadas",
+    "slug": "lembrancinhas-delicadas",
+    "nome": "Lembrancinhas delicadas em tons claros",
+    "categoria": "lembrancinhas",
+    "subcategoria": "eventos",
+    "descricao": "Pequenos personalizados em tons claros, com acabamento visual delicado.",
+    "imagens": [
+      {
+        "src": "/images/produtos/lembrancinhas/eventos/lembrancinhas-delicadas-01-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/eventos/lembrancinhas-delicadas-01-400.webp 400w, /images/produtos/lembrancinhas/eventos/lembrancinhas-delicadas-01-800.webp 800w",
+        "full": "/images/produtos/lembrancinhas/eventos/lembrancinhas-delicadas-01-1200.webp",
+        "alt": "Lembrancinhas delicadas em tons claros — vista principal",
+        "width": 1024,
+        "height": 1536
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "eventos",
+      "lembrancinhas"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "buque-borboletas-azul",
+    "slug": "buque-borboletas-azul",
+    "nome": "Buquê de borboletas azul",
+    "categoria": "buque-borboletas",
+    "subcategoria": "presentes",
+    "descricao": "Um buquê de borboletas em azul intenso para surpreender com um presente diferente.",
+    "imagens": [
+      {
+        "src": "/images/produtos/buque-borboletas/presentes/buque-borboletas-azul-01-800.webp",
+        "srcset": "/images/produtos/buque-borboletas/presentes/buque-borboletas-azul-01-400.webp 400w, /images/produtos/buque-borboletas/presentes/buque-borboletas-azul-01-800.webp 800w",
+        "full": "/images/produtos/buque-borboletas/presentes/buque-borboletas-azul-01-1200.webp",
+        "alt": "Buquê de borboletas azul — vista principal",
+        "width": 1086,
+        "height": 1448
+      }
+    ],
+    "destaque": true,
+    "tags": [
+      "buque-borboletas",
+      "adulto",
+      "presentes"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "lembrancinhas-infantis-tematicas",
+    "slug": "lembrancinhas-infantis-tematicas",
+    "nome": "Lembrancinhas infantis temáticas",
+    "categoria": "lembrancinhas",
+    "subcategoria": "infantil",
+    "descricao": "Inspirações de lembrancinhas em diferentes temas infantis.",
+    "imagens": [
+      {
+        "src": "/images/produtos/lembrancinhas/infantil/lembrancinhas-infantis-tematicas-01-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/infantil/lembrancinhas-infantis-tematicas-01-400.webp 400w, /images/produtos/lembrancinhas/infantil/lembrancinhas-infantis-tematicas-01-800.webp 800w, /images/produtos/lembrancinhas/infantil/lembrancinhas-infantis-tematicas-01-1200.webp 1200w",
+        "full": "/images/produtos/lembrancinhas/infantil/lembrancinhas-infantis-tematicas-01-1200.webp",
+        "alt": "Lembrancinhas infantis temáticas — vista principal",
+        "width": 1600,
+        "height": 1600
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "infantil",
+      "aniversario"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "lembrancinha-amor-mundo-carinho",
+    "slug": "lembrancinha-amor-mundo-carinho",
+    "nome": "Lembrancinhas Amor, Mundo e Carinho",
+    "categoria": "lembrancinhas",
+    "subcategoria": "datas-comemorativas",
+    "descricao": "Mensagens afetivas e cores alegres em lembrancinhas para presentear professores.",
+    "imagens": [
+      {
+        "src": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-amor-mundo-carinho-01-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-amor-mundo-carinho-01-400.webp 400w, /images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-amor-mundo-carinho-01-800.webp 800w, /images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-amor-mundo-carinho-01-1200.webp 1200w",
+        "full": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-amor-mundo-carinho-01-1200.webp",
+        "alt": "Lembrancinhas Amor, Mundo e Carinho — vista principal",
+        "width": 1254,
+        "height": 1254
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "datas-comemorativas",
+      "professores"
+    ],
+    "ativo": true
+  },
+  {
+    "id": "lembrancinha-lapis-colorido",
+    "slug": "lembrancinha-lapis-colorido",
+    "nome": "Lembrancinhas lápis colorido",
+    "categoria": "lembrancinhas",
+    "subcategoria": "datas-comemorativas",
+    "descricao": "Formato de lápis e tons suaves em uma lembrança com mensagem especial.",
+    "imagens": [
+      {
+        "src": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-lapis-colorido-01-800.webp",
+        "srcset": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-lapis-colorido-01-400.webp 400w, /images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-lapis-colorido-01-800.webp 800w",
+        "full": "/images/produtos/lembrancinhas/datas-comemorativas/lembrancinha-lapis-colorido-01-1200.webp",
+        "alt": "Lembrancinhas lápis colorido — vista principal",
+        "width": 1003,
+        "height": 1568
+      }
+    ],
+    "destaque": false,
+    "tags": [
+      "datas-comemorativas",
+      "professores"
+    ],
+    "ativo": true
+  }
+]
